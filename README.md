@@ -1,5 +1,7 @@
 # heimdall
 
+This chart is based on the heimdall chart pulled from this repository: `helm repo add k8s-at-home https://k8s-at-home.com/charts/`
+
 ![Version: 8.4.2](https://img.shields.io/badge/Version-8.4.2-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
 
 An Application dashboard and launcher
